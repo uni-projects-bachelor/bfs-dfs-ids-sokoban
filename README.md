@@ -14,3 +14,8 @@ The algorithms are applied to solve Sokoban puzzle configurations.
 - 
 For more details, please refer to the `document.pdf` file in the repository.
 
+---
+
+*Contributor: [Sepide Bahrami](https://github.com/sepiidebahramii)*
+
+---
